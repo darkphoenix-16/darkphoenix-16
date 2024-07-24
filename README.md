@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 📫 How to reach me:
+
 -->
 - 🔭 I’m currently working on Android and ios development
 - 🌱 I’m currently learning web design and I can design static websites
-- 📫 How to reach me
-- https://www.instagram.com/tabitha_honey90/
 - ⚡ Fun fact: I love reading and I'm a language nerd and is currently learning a new language
 
 
