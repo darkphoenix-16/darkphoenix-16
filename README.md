@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
 -->
-- 🔭 I’m currently working on Android and ios development
+- 🔭 I’m currently working on Android and ios development and AI Agents development
 - 🌱 I’m currently learning web design and I can design static websites
 - ⚡ Fun fact: I love reading and I'm a language nerd and is currently learning a new language
 
